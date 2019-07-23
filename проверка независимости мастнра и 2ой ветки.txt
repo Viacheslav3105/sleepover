@@ -1,2 +1,2 @@
-print ("Rebzya? privetiki!");
-print ("Againchek");
+print ("Rebzya? privetiki!");좋좋좋좋좋좋�
+print ("Againchek");,,,,,,,,,,,
